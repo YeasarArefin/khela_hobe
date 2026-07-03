@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "name": "Football World Cup",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "category": "Sports",
+    "description": "Live football world cup coverage.",
+    "stream_url": "http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1",
+    "featured": false
+  },
+  {
+    "id": "2",
+    "name": "Football World Cup",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "category": "Sports",
+    "description": "Live football world cup coverage.",
+    "stream_url": "http://198.195.239.50:8095/somoyTv/index.m3u8",
+    "featured": false
+  },
+  {
+    "id": "3",
+    "name": "Football World Cup",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "category": "Sports",
+    "description": "Live football world cup coverage.",
+    "stream_url": "http://198.195.239.50:8095/ptv/index.m3u8",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "name": "Football World Cup",
+    "logo": "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png",
+    "category": "Sports",
+    "description": "Live football world cup coverage.",
+    "stream_url": "http://180.94.28.28:8097/Fifa-2026/index.m3u8",
+    "featured": false
+  },
+  {
+    "id": "5",
+    "name": "TSN1",
+    "logo": "https://i.imgur.com/N09UZWA.png",
+    "category": "Sports",
+    "description": "Live international sports channel.",
+    "stream_url": "http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/748388.ts",
+    "featured": false
+  },
+  {
+    "id": "6",
+    "name": "TSN2",
+    "logo": "https://i.imgur.com/N09UZWA.png",
+    "category": "Sports",
+    "description": "Live international sports channel.",
+    "stream_url": "http://starhub.pro/live/farhat-3379/67897-913379/748388.ts",
+    "featured": false
+  },
+  {
+    "id": "7",
+    "name": "TSN3",
+    "logo": "https://i.imgur.com/N09UZWA.png",
+    "category": "Sports",
+    "description": "Live international sports channel.",
+    "stream_url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+    "featured": false
+  },
+  {
+    "id": "8",
+    "name": "Doraemon TV",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "category": "Kids",
+    "description": "Animated shows and cartoons for kids.",
+    "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "Gopal Bhar TV",
+    "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+    "category": "Kids",
+    "description": "Popular animated comedy content.",
+    "stream_url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
+    "featured": false
+  },
+  {
+    "id": "10",
+    "name": "BTV",
+    "category": "News",
+    "logo": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",
+    "stream_url": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "SOMOY TV",
+    "category": "News",
+    "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
+    "stream_url": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
+    "featured": false
+  },
+  {
+    "id": "12",
+    "name": "News 24",
+    "category": "News",
+    "logo": "https://play-lh.googleusercontent.com/0jwxLxAoi6p7anUrGqtBF0k8C07XfzToglauRvKnCBftHv71OHQ1CQ2JUqT7-fydwIAxmuzf6roVXLacOPKogQ",
+    "stream_url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+    "featured": false
+  }
+]
